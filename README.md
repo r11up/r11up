@@ -1,16 +1,18 @@
-## Hi there 👋
+# Utsav Poudel
 
-<!--
-**r11up/r11up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build computational methods for understanding complex systems.
 
-Here are some ideas to get you started:
+My interests are centered around machine learning and scientific computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my repositories are research code, experiments, and reproducible implementations developed alongside academic work.
+
+### Links
+
+🎓 Google Scholar
+https://scholar.google.com/citations?user=BEfjz2gAAAAJ&hl=en
+
+🌐 Website
+https://sites.google.com/view/utsavpoudel
+
+💼 LinkedIn
+https://www.linkedin.com/in/utsavpoudell/
