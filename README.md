@@ -4,7 +4,7 @@ I build computational methods for understanding complex systems.
 
 My interests are centered around machine learning and scientific computing.
 
-Most of my repositories are experiments and implementations developed alongside academic work.
+Most of my repositories are experiments and implementations developed alongside research.
 
 ### Links
 
